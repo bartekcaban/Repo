@@ -1,1 +1,0 @@
-Tutaj można umieszczać pliki nie związane z projektem ani laboratorium. Jest to swego rodzaju brudnopis

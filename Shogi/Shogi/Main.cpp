@@ -11,7 +11,6 @@
 #include "Lista.cpp"
 #include <iostream>
 #include <SFML/Graphics.hpp>
-#include "vld.h"
 
 using namespace sf;
 
@@ -679,7 +678,7 @@ int main()
 				}
 		}
 
-		//wyswietlanie t≥a i planszy
+		//wyswietlanie t≈Ça i planszy
 		okno.clear();
 		s_plansza.setPosition(0, 0);
 		okno.draw(s_plansza);
